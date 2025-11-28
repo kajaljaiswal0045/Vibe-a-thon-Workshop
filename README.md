@@ -2,11 +2,11 @@
 
 Welcome to the IT Circle Workshop! This is a collaborative project where all workshop attendees can contribute by adding their name to our community page.
 
-## 🎯 Objective
+## Objective
 
 Learn Git/GitHub collaboration by adding your information to our workshop contributors page.
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Git installed on your computer
@@ -77,7 +77,7 @@ git push origin add-your-name
 - Add a title like "Add [Your Name] to contributors"
 - Click "Create pull request"
 
-## 📝 Contribution Guidelines
+## Contribution Guidelines
 
 ### What to Include:
 - **Full Name**: Your real name or preferred display name
@@ -105,7 +105,7 @@ git push origin add-your-name
 4. **Don't modify other contributors' information**
 5. **Don't change the overall styling or structure**
 
-## 🎨 How It Works
+## How It Works
 
 The page features:
 - **Responsive Design**: Works on desktop and mobile
@@ -113,7 +113,7 @@ The page features:
 - **Auto Counter**: Automatically counts the number of contributors
 - **Modern Styling**: Clean, professional appearance
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 workshop/
@@ -122,7 +122,7 @@ workshop/
 └── .gitignore         # Git ignore rules
 ```
 
-## ❓ Need Help?
+## Need Help?
 
 ### Common Issues:
 
@@ -144,28 +144,28 @@ A: Make sure you're in the correct directory and have Git installed properly.
 3. Reach out to the workshop facilitator
 4. Create an issue in this repository
 
-## 🏆 Learning Outcomes
+## Learning Outcomes
 
 By completing this exercise, you will:
-- ✅ Learn basic Git commands
-- ✅ Understand the GitHub workflow
-- ✅ Practice HTML editing
-- ✅ Experience collaborative development
-- ✅ Create your first open source contribution!
+- Learn basic Git commands
+- Understand the GitHub workflow
+- Practice HTML editing
+- Experience collaborative development
+- Create your first open source contribution
 
-## 🎉 After Your Contribution
+## After Your Contribution
 
 Once your pull request is merged:
 1. Your name will appear on the live website
 2. You'll be listed as a contributor to this repository
 3. You can share your first open source contribution!
 
-## 📜 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-**Happy Contributing! 🚀**
+**Happy Contributing!**
 
-*Made with ❤️ for the IT Circle Workshop community*
+*Made for the IT Circle Workshop community*
